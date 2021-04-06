@@ -60,7 +60,7 @@ const GlobalStyles = createGlobalStyle`
 
 	html {
 		background-color: ${theme.palette.background.primary};
-		color: #fff;
+		/* color: #fff; */
 	}
 
 	#root {
